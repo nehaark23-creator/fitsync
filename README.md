@@ -101,6 +101,13 @@ The project can be extended in the future by adding:
 
 Developed as a student project to demonstrate the design and development of a modern web application.
 
+## 👥 Contributors
+
+- [Neha](https://github.com/nehaark23-creator)
+- [Hamedur Rayhan](https://github.com/Rayhan29-m/Rayhan-)
+- [Prasanna](https://github.com/prasanna07-blip)
+- [Sakshini]
+
 ## 📄 License
 
 This project is developed for educational and demonstration purposes.
